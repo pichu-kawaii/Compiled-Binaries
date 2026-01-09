@@ -23,7 +23,7 @@ PS C:\WINDOWS\system32> Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ・　SpoolSample\bin\Releaseなどのフォルダに作成されている
 
-・　事後処置
+・　事後処置  
 ・　PowerShellのポリシーを戻す
 ```powershell
 PS C:\WINDOWS\system32> Set-ExecutionPolicy Restricted -Scope CurrentUser
