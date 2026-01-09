@@ -1,5 +1,7 @@
 【**SpoolSample.exe**】 🔗 https://github.com/leechristensen/SpoolSample  
 
+つくりかた
+
 ・　Windows Defenderを切る（Real Time Protection）
 
 ・　管理者権限でPowerShellを実行
