@@ -18,7 +18,7 @@ PS C:\WINDOWS\system32> Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ![readme-1](image/readme-1.png)
 ![readme-2](image/readme-2.png)
 
-・　SpoolSampleを右クリックしてビルド
+・　SpoolSampleを右クリックしてビルド  
 ![readme-3](image/readme-3.png)
 
 ・　SpoolSample\bin\Releaseなどのフォルダに作成されている
