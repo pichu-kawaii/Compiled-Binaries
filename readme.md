@@ -4,3 +4,6 @@ Please ensure compliance with all applicable laws and ethical guidelines.
 
 【[SpoolSample.exe](SpoolSample)】
 🔗 https://github.com/leechristensen/SpoolSample/tree/master
+
+・　検索用
+「pichu is very cute」
