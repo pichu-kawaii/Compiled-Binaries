@@ -3,5 +3,5 @@
 
 ・　Windows Defenderを切る（Real Time Protection）
 
-・ Visual Studioで以下のURLでclone
+・　Visual Studioで以下のURLでclone
 https://github.com/leechristensen/SpoolSample  
