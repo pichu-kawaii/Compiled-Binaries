@@ -4,3 +4,5 @@ Please ensure compliance with all applicable laws and ethical guidelines.
 
 【[SpoolSample.exe](SpoolSample)】
 🔗 https://github.com/leechristensen/SpoolSample/tree/master
+
+【[SharpGPOAbuse.exe](SharpGPOAbuse)】🔗 https://github.com/ReversecLabs/SharpGPOAbuse
