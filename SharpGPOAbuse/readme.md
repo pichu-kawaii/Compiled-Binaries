@@ -15,14 +15,15 @@ PS C:\WINDOWS\system32> winget install --id Git.Git -e
 ```
 
 ・　Visual Studio Installer → 「変更」→ 個別のコンポーネントからv3.5をインストール
-![[images/image1]]
+![image1](images/image1.png)
 
 ・　Visual Studioを立ち上げ、リポジトリのクローンから新規作成
-
+![image2](images/image2.png)
 
 ・　`SharpGPOAbuse`を右クリックしてビルド
+![image3](images/image3.png)
 
-・　SpoolSample\bin\Releaseなどのフォルダに作成されている
+・　SharpGPOAbuse\bin\Releaseなどのフォルダに作成されている
 
 ・　事後処置
 ・　Windows Defenderを戻す。
