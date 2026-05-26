@@ -15,6 +15,7 @@ PS C:\WINDOWS\system32> winget install --id Git.Git -e
 ```
 
 ・　Visual Studio Installer → 「変更」→ 個別のコンポーネントからv3.5をインストール
+![[images/image1]]
 
 ・　Visual Studioを立ち上げ、リポジトリのクローンから新規作成
 
