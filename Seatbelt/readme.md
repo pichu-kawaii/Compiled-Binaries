@@ -16,6 +16,9 @@ PS C:\WINDOWS\system32> winget install --id Git.Git -e
 ・　Visual Studioを立ち上げ、リポジトリのクローンから新規作成
 ![](images/)
 
+・　`Seatbelt`を右クリックしてビルド
+![](images/)
+
 ・　Seatbelt\bin\などのフォルダに作成されている
 
 ・　事後処置  
