@@ -15,10 +15,10 @@ PS C:\WINDOWS\system32> winget install --id Git.Git -e
 ![](images/)
 
 ・　Visual Studioを立ち上げ、リポジトリのクローンから新規作成
-![](images/)
+![](images/2026-09-25_13-09.png)
 
 ・　`Seatbelt`を右クリックしてビルド
-![](images/)
+![](images/2026-09-25_13-13.png)
 
 ・　Seatbelt\bin\などのフォルダに作成されている
 
