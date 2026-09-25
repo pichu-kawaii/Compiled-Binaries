@@ -1,5 +1,6 @@
 ・　作り方
-・　Windows Defender（Real Time Protection）を切る
+
+・　Windows Defender（Real Time Protection）を切る<br>
 ・　gitをインストール
 ```powershell
 PS C:\WINDOWS\system32> winget install --id Git.Git -e
