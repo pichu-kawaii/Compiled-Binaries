@@ -12,7 +12,7 @@ PS C:\WINDOWS\system32> winget install --id Git.Git -e
 ```
 
 ・　Visual Studio Installer → 「変更」→ 個別のコンポーネントからv3.5をインストール
-![]()
+![](../SharpGPOAbuse/images/image1.png)
 
 ・　Visual Studioを立ち上げ、リポジトリのクローンから新規作成<br>
 ![](images/2026-09-25_13-09.png)
