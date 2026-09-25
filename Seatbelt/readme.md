@@ -12,12 +12,12 @@ PS C:\WINDOWS\system32> winget install --id Git.Git -e
 ```
 
 ・　Visual Studio Installer → 「変更」→ 個別のコンポーネントからv3.5をインストール
-![](images/)
+![]()
 
-・　Visual Studioを立ち上げ、リポジトリのクローンから新規作成
+・　Visual Studioを立ち上げ、リポジトリのクローンから新規作成<br>
 ![](images/2026-09-25_13-09.png)
 
-・　`Seatbelt`を右クリックしてビルド
+・　`Seatbelt`を右クリックしてビルド<br>
 ![](images/2026-09-25_13-13.png)
 
 ・　Seatbelt\bin\などのフォルダに作成されている
